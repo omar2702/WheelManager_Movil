@@ -1,0 +1,4 @@
+#Tue May 04 11:53:57 COT 2021
+base.0=C\:\\Users\\Nicole\\Documents\\TRABAJOS-UPC\\CURSOS_DEL_CICLO_2021-01\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES\\TRABAJO_FINAL\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
