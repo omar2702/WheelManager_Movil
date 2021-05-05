@@ -19,8 +19,7 @@ class GalleryFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        createViwModel =
-            ViewModelProvider(this).get(GalleryViewModel::class.java)
+        createViwModel = ViewModelProvider(this).get(GalleryViewModel::class.java)
         val root = inflater.inflate(R.layout.fragment_gallery, container, false)
         val textView: TextView = root.findViewById(R.id.text_gallery)
         createViwModel.text.observe(viewLifecycleOwner, Observer {
