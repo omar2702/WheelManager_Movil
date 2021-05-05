@@ -40,12 +40,12 @@
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
