@@ -1,0 +1,2 @@
+pe/edu/upc/wheelmanager/BuildConfig.java
+ pe.edu.upc.wheelmanager.BuildConfig
