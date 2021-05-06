@@ -1,4 +1,4 @@
-#Wed May 05 06:03:34 COT 2021
+#Wed May 05 20:43:52 COT 2021
 base.0=D\:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
 renamed.0=classes.dex
+path.0=classes.dex
