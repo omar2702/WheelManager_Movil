@@ -3,12 +3,18 @@ package pe.edu.upc.wheelmanager.ui.service
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
 import android.widget.Button
 import android.widget.EditText
-import androidx.appcompat.app.AppCompatActivity
+import android.widget.TextView
+import androidx.fragment.app.Fragment
+import androidx.lifecycle.Observer
+import androidx.lifecycle.ViewModelProvider
 import pe.edu.upc.wheelmanager.R
 
-class ServiceFragment : AppCompatActivity() {
+class ServiceFragment : Activity() {
     private lateinit var etName: EditText
     private lateinit var btSave: Button
     private lateinit var btCancel: Button
