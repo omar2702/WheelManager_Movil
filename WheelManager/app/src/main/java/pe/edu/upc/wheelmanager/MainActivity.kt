@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity(),NavigationView.OnNavigationItemSelected
 
         nav_menu.setNavigationItemSelectedListener(this)
 
-        setToolbarTitle("Home")
+        setToolbarTitle("WM")
         changeFragment(Home())
 
     }
@@ -34,27 +34,27 @@ class MainActivity : AppCompatActivity(),NavigationView.OnNavigationItemSelected
 
         when(item.itemId){
             R.id.home ->{
-                setToolbarTitle("Home")
+                setToolbarTitle("WM")
                 changeFragment(Home())
             }
 
             R.id.revolutionize ->{
-                setToolbarTitle("Revolutionize")
+                setToolbarTitle("WM")
                 changeFragment(revolutionize())
             }
 
             R.id.benefits ->{
-                setToolbarTitle("Benefits")
+                setToolbarTitle("WM")
                 changeFragment(Benefits())
             }
 
             R.id.about ->{
-                setToolbarTitle("About us")
+                setToolbarTitle("WM")
                 changeFragment(About())
             }
 
             R.id.subscription ->{
-                setToolbarTitle("Subscription Plans")
+                setToolbarTitle("WM")
                 changeFragment(SubscriptionPlans())
             }
         }

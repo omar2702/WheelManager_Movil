@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebookimage.png.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\facebookimage.png"
+    },
+    {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_header.xml.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\layout\\navigation_header.xml"
     },
@@ -10,6 +14,10 @@
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_park_bike02.png.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\park_bike02.png"
     },
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -44,12 +52,24 @@
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_groups_black_24dp.png.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\outline_groups_black_24dp.png"
+    },
+    {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grupal.png.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\grupal.png"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fb_icon.png.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\fb_icon.png"
     },
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -60,8 +80,16 @@
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\layout\\fragment_about.xml"
     },
     {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_valle_render02.jpg.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\valle_render02.jpg"
+    },
+    {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fce19f9c459c92827de244097bf9a1dc_hombre_deportista_bicicleta_bicicleta_persona_plana_by_vexels.png.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\fce19f9c459c92827de244097bf9a1dc_hombre_deportista_bicicleta_bicicleta_persona_plana_by_vexels.png"
     },
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_revolutionize.xml.flat",
@@ -70,6 +98,10 @@
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nigthbikef.jpg.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\nigthbikef.jpg"
     },
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -84,12 +116,28 @@
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hand_silhouette.png.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\hand_silhouette.png"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vintageofbikes02.jpg.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\vintageofbikes02.jpg"
+    },
+    {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_valle_render.jpg.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\valle_render.jpg"
+    },
+    {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_planesbackground02.jpg.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\planesbackground02.jpg"
     },
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
@@ -108,11 +156,23 @@
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_valle_render01.jpg.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\valle_render01.jpg"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grupalbasic.png.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\grupalbasic.png"
+    },
+    {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group02.png.flat",
+        "source": "D:\\WM_04\\WheelManager_Movil\\WheelManager\\app\\src\\main\\res\\drawable\\group02.png"
     }
 ]
