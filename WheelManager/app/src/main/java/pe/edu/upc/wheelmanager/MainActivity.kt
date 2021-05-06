@@ -57,6 +57,11 @@ class MainActivity : AppCompatActivity(),NavigationView.OnNavigationItemSelected
                 setToolbarTitle("Subscription Plans")
                 changeFragment(SubscriptionPlans())
             }
+
+            R.id.searchproduct ->{
+                setToolbarTitle("Search Product")
+                changeFragment(SearchProduct())
+            }
         }
         return true
     }

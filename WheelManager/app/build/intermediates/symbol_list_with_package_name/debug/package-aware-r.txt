@@ -2018,6 +2018,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id searchproduct
 id select_dialog_listview
 id selected
 id selection_type
@@ -2076,6 +2077,7 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView10
 id textView2
 id textView3
 id textView4
@@ -2201,6 +2203,7 @@ layout fragment_about
 layout fragment_benefits
 layout fragment_home
 layout fragment_revolutionize
+layout fragment_searchproduct
 layout fragment_subscription_plans
 layout material_chip_input_combo
 layout material_clock_display
