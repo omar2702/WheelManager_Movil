@@ -12,19 +12,13 @@ import pe.edu.upc.wheelmanager.R
 
 class GalleryFragment : Fragment() {
 
-    private lateinit var createViwModel: GalleryViewModel
-
     override fun onCreateView(
-        inflater: LayoutInflater,
-        container: ViewGroup?,
+        inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        createViwModel = ViewModelProvider(this).get(GalleryViewModel::class.java)
-        val root = inflater.inflate(R.layout.fragment_gallery, container, false)
-        val textView: TextView = root.findViewById(R.id.text_gallery)
-        createViwModel.text.observe(viewLifecycleOwner, Observer {
-            textView.text = it
-        })
-        return root
+        // Inflate the layout for this fragment
+        return inflater.inflate(R.layout.fragment_gallery, container, false)
     }
-}
+
+
+    }
