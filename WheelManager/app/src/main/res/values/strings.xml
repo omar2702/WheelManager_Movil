@@ -1,14 +1,3 @@
 <resources>
     <string name="app_name">WheelManager</string>
-    <string name="title_activity_navigatio_beta">activity_navigation_beta</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">User</string>
-    <string name="nav_header_subtitle">Email@example.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
-
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Create</string>
-    <string name="menu_slideshow">Slideshow</string>
 </resources>
